@@ -54,6 +54,7 @@ Recommended stack and order of adoption:
 - Resource index: [docs/resources.md](docs/resources.md)
 - Tool comparison: [docs/tool-comparison.md](docs/tool-comparison.md)
 - Case studies: [docs/case-studies.md](docs/case-studies.md)
+- Cheatsheets: [docs/cheatsheets.md](docs/cheatsheets.md)
 - Glossary: [docs/glossary.md](docs/glossary.md)
 
 ## Practical Assets
