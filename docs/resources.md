@@ -36,3 +36,15 @@ Also see: [Tool Comparison](tool-comparison.md) and [Case Studies](case-studies.
 - Runtime detection: [Falco](https://falco.org/)
 - Observability: [OpenTelemetry](https://opentelemetry.io/), [Prometheus](https://prometheus.io/)
 - IR platforms: [TheHive](https://thehive-project.org/), [PagerDuty](https://www.pagerduty.com/)
+
+## Real-world Examples
+
+- [GitHub Actions starter workflows](https://github.com/actions/starter-workflows)
+- [Semgrep rules](https://github.com/semgrep/semgrep-rules)
+- [Trivy examples](https://github.com/aquasecurity/trivy)
+- [Syft + Grype examples](https://github.com/anchore/syft)
+- [Cosign examples](https://github.com/sigstore/cosign)
+- [Kyverno policy library](https://github.com/kyverno/policies)
+- [OPA Gatekeeper library](https://github.com/open-policy-agent/gatekeeper-library)
+- [Falco rules](https://github.com/falcosecurity/rules)
+- [OpenTelemetry demo](https://github.com/open-telemetry/opentelemetry-demo)
