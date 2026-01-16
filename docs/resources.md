@@ -2,6 +2,8 @@
 
 Curated tools and references by category.
 
+Also see: [Tool Comparison](tool-comparison.md) and [Case Studies](case-studies.md).
+
 ## Shift Left
 
 - Secrets: [Gitleaks](https://github.com/gitleaks/gitleaks), [Talisman](https://github.com/thoughtworks/talisman)

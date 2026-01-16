@@ -52,6 +52,8 @@ Recommended stack and order of adoption:
 - Metrics and KPIs: [docs/metrics.md](docs/metrics.md)
 - Learning paths: [docs/learning-paths.md](docs/learning-paths.md)
 - Resource index: [docs/resources.md](docs/resources.md)
+- Tool comparison: [docs/tool-comparison.md](docs/tool-comparison.md)
+- Case studies: [docs/case-studies.md](docs/case-studies.md)
 - Glossary: [docs/glossary.md](docs/glossary.md)
 
 ---
