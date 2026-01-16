@@ -62,6 +62,18 @@ Recommended stack and order of adoption:
 - Ready configs: [configs/README.md](configs/README.md)
 - Operational checklists: [checklists/README.md](checklists/README.md)
 
+## Real-world Examples
+
+- [GitHub Actions starter workflows](https://github.com/actions/starter-workflows)
+- [Semgrep rules](https://github.com/semgrep/semgrep-rules)
+- [Trivy examples](https://github.com/aquasecurity/trivy)
+- [Syft + Grype examples](https://github.com/anchore/syft)
+- [Cosign examples](https://github.com/sigstore/cosign)
+- [Kyverno policy library](https://github.com/kyverno/policies)
+- [OPA Gatekeeper library](https://github.com/open-policy-agent/gatekeeper-library)
+- [Falco rules](https://github.com/falcosecurity/rules)
+- [OpenTelemetry demos](https://github.com/open-telemetry/opentelemetry-demo)
+
 ---
 
 ## 🧭 Roadmap Navigation
