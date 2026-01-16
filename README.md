@@ -56,6 +56,12 @@ Recommended stack and order of adoption:
 - Case studies: [docs/case-studies.md](docs/case-studies.md)
 - Glossary: [docs/glossary.md](docs/glossary.md)
 
+## Practical Assets
+
+- Project blueprints: [projects/README.md](projects/README.md)
+- Ready configs: [configs/README.md](configs/README.md)
+- Operational checklists: [checklists/README.md](checklists/README.md)
+
 ---
 
 ## 🧭 Roadmap Navigation
