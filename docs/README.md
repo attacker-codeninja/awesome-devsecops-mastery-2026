@@ -22,6 +22,7 @@ Start here for the DevSecOps mastery program. This section links the roadmap, ar
 - Skill maps: [../skill-maps/README.md](../skill-maps/README.md)
 - Secure SDLC checklists: [../sdlc-checklists/README.md](../sdlc-checklists/README.md)
 - Sample repos: [../samples/README.md](../samples/README.md)
+- Integration guides: [../integrations/README.md](../integrations/README.md)
 
 ## Phases
 
