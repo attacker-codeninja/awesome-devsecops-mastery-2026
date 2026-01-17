@@ -63,6 +63,7 @@ Recommended stack and order of adoption:
 - Project blueprints: [projects/README.md](projects/README.md)
 - Ready configs: [configs/README.md](configs/README.md)
 - Operational checklists: [checklists/README.md](checklists/README.md)
+- Incident playbooks: [playbooks/README.md](playbooks/README.md)
 
 ## Real-world Examples
 
