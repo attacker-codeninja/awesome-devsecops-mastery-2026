@@ -71,6 +71,7 @@ Recommended stack and order of adoption:
 - Secure SDLC checklists: [sdlc-checklists/README.md](sdlc-checklists/README.md)
 - Sample repos: [samples/README.md](samples/README.md)
 - Integration guides: [integrations/README.md](integrations/README.md)
+- Security testing recipes: [recipes/README.md](recipes/README.md)
 
 ## Real-world Examples
 
