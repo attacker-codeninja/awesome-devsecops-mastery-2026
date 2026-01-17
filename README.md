@@ -74,6 +74,7 @@ Recommended stack and order of adoption:
 - Security testing recipes: [recipes/README.md](recipes/README.md)
 - Incident metrics templates: [metrics-templates/README.md](metrics-templates/README.md)
 - Maturity scorecards: [scorecards/README.md](scorecards/README.md)
+- Evidence packs: [evidence-packs/README.md](evidence-packs/README.md)
 
 ## Real-world Examples
 
